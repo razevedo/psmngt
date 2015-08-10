@@ -1,0 +1,5 @@
+[
+  {"name": "android", "token":"ricardo", "rule":"* * 1"}
+  {"name": "laptop", "token":"ricardo2", "rule":"* * 1"}
+],
+{"port": "80"}
